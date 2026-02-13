@@ -1,0 +1,1 @@
+# appwrite_auth_project
